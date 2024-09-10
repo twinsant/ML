@@ -102,7 +102,9 @@ matplotlib==3.9.2
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
 nltk==3.9.1
+
 numpy==1.23.5
+
 oauthlib==3.2.2
 openai==1.43.0
 opentelemetry-api==1.27.0
@@ -156,7 +158,9 @@ stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_166963
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
+
 tensorflow @ file:///Users/ant/GitHub/tensorflow/tensorflow-2.9.3-cp310-cp310-macosx_14_0_x86_64.whl#sha256=e31fb199401670cfb5114336c059795e07bd4963b93d5e58311ea6249c3d5c3d
+
 tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.4.0
