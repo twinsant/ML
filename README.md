@@ -34,3 +34,7 @@
 * 本机
 * Google Colab
 * AutoDL
+
+### 数据集
+
+* [Bitcoin Blockchain Historical Data](https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain)
