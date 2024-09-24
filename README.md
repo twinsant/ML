@@ -38,3 +38,8 @@
 ### 数据集
 
 * [Bitcoin Blockchain Historical Data](https://www.kaggle.com/datasets/bigquery/bitcoin-blockchain)
+  * [Demo](https://www.kaggle.com/code/atmanan/hacked-bitcoin-transactions-input-values-fees)
+
+## 扩展阅读
+
+* [AI绘画-StableDiffusion图像生成](https://cloud.tencent.com/developer/learning/camp/19)
