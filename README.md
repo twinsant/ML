@@ -1,10 +1,30 @@
 # 蚂蚁的深度学习练习
 
+从概念到原理，再到应用，再到实践中知道价值 1 万美金的线画在哪里，最后到找到能画出线的人，时间消耗从 100 小时到 1000 小时再到 10000 小时，乃至一生。。。
+
+```mermaid
+flowchart LR
+    A[开始] --> B[Know What]
+    B --> C[Know How]
+    B --> D[Know Why]
+    C --> E[Know Where]
+    D --> E
+    D --> F[Know When]
+    C --> F
+    E --> G[Know Who]
+    F --> G
+```
+
 ## 推荐书目：
 
-* [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/)
-* [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/)
-* [《深度学习入门》](https://book.douban.com/subject/36303408/)
+* [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/) 工程师从这本书入门比较好
+* [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
+* [《深度学习入门》](https://book.douban.com/subject/36303408/) 然后手撸理解更深
+
+## 论文阅读
+
+* https://www.aminer.cn/ 智谱出品
+* https://papers.cool/ 苏神出品
 
 ### 编程
 
