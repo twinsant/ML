@@ -62,4 +62,5 @@ flowchart LR
 
 ## 扩展阅读
 
+* [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 * [AI绘画-StableDiffusion图像生成](https://cloud.tencent.com/developer/learning/camp/19)
