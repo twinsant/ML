@@ -15,11 +15,16 @@ flowchart LR
     F --> G
 ```
 
+## 终极目标
+
+精通空间智能，比如NeRF, 3DGS等空间计算和空间视频的处理与生成，为元宇宙即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
+
 ## 推荐书目：
 
 * [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/) 工程师从这本书入门比较好
 * [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
 * [《深度学习入门》](https://book.douban.com/subject/36303408/) 然后手撸理解更深
+* [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
 
 ## 论文阅读
 
