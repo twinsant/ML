@@ -23,7 +23,7 @@ flowchart LR
 
 * [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/) 工程师从这本书入门比较好，但注意当前阶段TF不如PyTorch流行，G家自己在用JAX
 * [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
-  - [跟李沐学AI](https://space.bilibili.com/1567748478/channel/series)
+  - [跟李沐学AI](https://space.bilibili.com/1567748478/channel/series) 配套视频及论文精读视频
 * [《深度学习入门》](https://book.douban.com/subject/36303408/) 然后手撸理解更深
 * [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
 
