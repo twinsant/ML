@@ -17,7 +17,7 @@ flowchart LR
 
 ## 终极目标
 
-精通空间智能，比如NeRF, 3DGS等空间计算和空间视频的处理与生成，为元宇宙即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
+精通空间智能，比如NeRF, 3DGS等空间计算和空间视频的处理与生成，为[元宇宙](https://github.com/twinsant/ethos)即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
 
 ## 推荐书目：
 
@@ -72,3 +72,4 @@ flowchart LR
 ## 扩展阅读
 
 * [AI绘画-StableDiffusion图像生成](https://cloud.tencent.com/developer/learning/camp/19)
+* [吴恩达机器学习](https://study.163.com/course/courseMain.htm?courseId=1210076550)
