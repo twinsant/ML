@@ -51,6 +51,10 @@ flowchart LR
 
 ### 机器学习理论
 
+#### Transformer
+
+* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+
 ### 工具
 
 * [Learn TensorFlow](https://www.tensorflow.org/learn)
