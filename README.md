@@ -51,6 +51,10 @@ flowchart LR
 
 ### 机器学习理论
 
+#### 深度学习入门
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
+
 #### Transformer
 
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
