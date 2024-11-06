@@ -19,6 +19,10 @@ flowchart LR
 
 精通空间智能，比如NeRF, 3DGS等空间计算和空间视频的处理与生成，为[元宇宙](https://github.com/twinsant/ethos)即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
 
+* [What is spatial intelligence?](https://www.worldlabs.ai/about)
+
+> Initially we will focus on generating 3D worlds without limits - creating and editing virtual spaces complete with physics, semantics, and control. We hope this will unlock new capabilities for creative users and professionals such as artists, designers, developers, and engineers. It will also allow anyone to imagine and create their own worlds, expanding the potential of generative AI from 2D images and videos to 3D worlds.
+
 ## 推荐书目：
 
 * [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/) 工程师从这本书入门比较好，但注意当前阶段TF不如PyTorch流行，G家自己在用JAX
