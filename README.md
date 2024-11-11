@@ -1,4 +1,4 @@
-# 蚂蚁的深度学习练习
+# 蚂蚁的AI学习练习
 
 从概念到原理，再到应用，再到实践中知道价值 1 万美金的线画在哪里，最后到找到能画出线的人，时间消耗从 100 小时到 1000 小时再到 10000 小时，乃至一生。。。
 
@@ -15,15 +15,26 @@ flowchart LR
     F --> G
 ```
 
-## 终极目标
+## 个人5 年内目标
 
 精通空间智能，比如NeRF, 3DGS等空间计算和空间视频的处理与生成，为[元宇宙](https://github.com/twinsant/ethos)即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
+
+空间智能是AI的下一阶段，是继LLMs大语言模型之后的第二个台阶，是通往AGI的必经之路。
 
 * [What is spatial intelligence?](https://www.worldlabs.ai/about)
 
 > Initially we will focus on generating 3D worlds without limits - creating and editing virtual spaces complete with physics, semantics, and control. We hope this will unlock new capabilities for creative users and professionals such as artists, designers, developers, and engineers. It will also allow anyone to imagine and create their own worlds, expanding the potential of generative AI from 2D images and videos to 3D worlds.
 
+## 推荐信息源：资料日日新
+
+* [归藏的AIGC Weekly](https://quail.ink/op7418)
 ## 推荐书目：
+
+### 道
+
+* [未来简史]()
+
+### 术
 
 * [《Python深度学习（第２版）》](https://book.douban.com/subject/36078304/) 工程师从这本书入门比较好，但注意当前阶段TF不如PyTorch流行，G家自己在用JAX
 * [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
@@ -31,6 +42,12 @@ flowchart LR
   - [跟李沐学AI](https://space.bilibili.com/1567748478/channel/series) 配套视频及论文精读视频
 * [《深度学习入门》](https://book.douban.com/subject/36303408/) 然后手撸理解更深
 * [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
+* [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
+
+### 器
+
+* LLMs工具
+* AIGC工具
 
 ## 论文阅读
 
