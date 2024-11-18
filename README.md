@@ -79,6 +79,11 @@ flowchart LR
 #### Transformer
 
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+* [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/index)
+
+#### Diffusion
+
+* [Diffusion](https://huggingface.co/docs/diffusers/en/index)
 
 ### 工具
 
