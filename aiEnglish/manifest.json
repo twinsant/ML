@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "AI Word Lookup",
+    "version": "1.0",
+    "description": "右键点击选中的单词，使用AI查找释义。",
+    "permissions": [
+      "contextMenus",
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
