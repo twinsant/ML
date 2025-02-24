@@ -99,6 +99,7 @@ flowchart LR
 
 ## 练习环境
 
+* 表格工具：手撸深度学习
 * 本机
 * Google Colab
 * AutoDL
