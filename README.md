@@ -25,6 +25,17 @@ flowchart LR
 
 > Initially we will focus on generating 3D worlds without limits - creating and editing virtual spaces complete with physics, semantics, and control. We hope this will unlock new capabilities for creative users and professionals such as artists, designers, developers, and engineers. It will also allow anyone to imagine and create their own worlds, expanding the potential of generative AI from 2D images and videos to 3D worlds.
 
+### 课题
+
+目前有一个想法：写一个手机APP，界面分上下两部分，上面的部分为摄像头画面，下面的部分为通过上一帧预测生成的画面，画面会和手机重力传感器同步。
+
+用这个课题来进入到具体的空间智能实现，研究以下问题：
+
+* 如何通过上一帧预测下一帧画面
+* 如何通过对比摄像头下一帧画面让模型强化学习
+
+最终达到上下画面完全一致
+
 ## 推荐信息源：资料日日新
 
 * [归藏的AIGC Weekly](https://quail.ink/op7418)
