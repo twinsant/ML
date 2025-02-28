@@ -36,6 +36,10 @@ flowchart LR
 
 最终达到上下画面完全一致
 
+参考：
+
+* [Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://github.com/half-potato/ever_training)
+
 ## 推荐信息源：资料日日新
 
 * [归藏的AIGC Weekly](https://quail.ink/op7418)
