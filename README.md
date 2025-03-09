@@ -25,16 +25,24 @@ flowchart LR
 
 > Initially we will focus on generating 3D worlds without limits - creating and editing virtual spaces complete with physics, semantics, and control. We hope this will unlock new capabilities for creative users and professionals such as artists, designers, developers, and engineers. It will also allow anyone to imagine and create their own worlds, expanding the potential of generative AI from 2D images and videos to 3D worlds.
 
-### 课题
+蚂蚁个人觉得，以人类幼崽从小通过视觉学习的过程来看，通过视觉空间数据来逐步强化学习、训练构造神经网络是个可能的通往AGI的道路，目前AI的观察世界的方式是语言文字资料，这与人类恰恰相反，读书认字其实是智能发展到后期的一种社会实践活动，那么，有没有可能，让AI自行构造神经网络结构？自行通过视觉数据来修改网络权重？可以给AI一个睡觉的时间，构造它的海马体和更多的硅基大脑部分？
 
-目前有一个想法：写一个手机APP，界面分上下两部分，上面的部分为摄像头画面，下面的部分为通过上一帧预测生成的画面，画面会和手机重力传感器同步。
+蚂蚁现在还不是很懂细节，希望通过一年的努力，看能不能找到一条道路，实现以下几个课题：
+
+### 课题1
+
+通过摄像头强化学习的MNIST手写文字识别神经网络
+
+### 课题2
+
+写一个手机APP，界面分上下两部分，上面的部分为摄像头画面，下面的部分为通过上一帧预测生成的画面，画面会和手机重力传感器同步。
 
 用这个课题来进入到具体的空间智能实现，研究以下问题：
 
 * 如何通过上一帧预测下一帧画面
 * 如何通过对比摄像头下一帧画面让模型强化学习
 * 如果把训练过程和推理过程通过强化学习的方式结合起来
-* 如何让摄像头学会认数字，就像教小孩子一样
+* 如何让摄像头学会认物体，就像教小孩子一样
 
 最终达到上下画面完全一致，摄像头的思考过程用文字的方式显示出来，这个课题项目的代号 BigEyeZero
 
@@ -111,6 +119,11 @@ flowchart LR
 * [Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch/tree/main)
 
   ![img](https://camo.githubusercontent.com/a17472f25db0af2e7a72700cf3e994b48a61405931b54111ed4d62cbe0371216/68747470733a2f2f73656261737469616e72617363686b612e636f6d2f696d616765732f4c4c4d732d66726f6d2d736372617463682d696d616765732f6d656e74616c2d6d6f64656c2e6a7067)
+
+  推理模型
+
+  ![f63f8e991a682ca5b1698d137e2f156d](https://github.com/user-attachments/assets/94bf413a-430d-4262-b2c6-67197e280743)
+
 
   - [Colab 练习](https://drive.google.com/file/d/19am0lv1HHlIQYWI4swrVNCiudhoaexKn/view?usp=sharing)
 
