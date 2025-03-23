@@ -111,7 +111,7 @@ flowchart LR
 
 #### LLM Visualization
 
-* [LLM Visualization](https://bbycroft.net/llm)
+* [LLM Visualization](https://bbycroft.net/llm) **强烈推荐**通过这个可视化工具理解LLM的工作流程
 
 #### Diffusion
 
