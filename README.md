@@ -108,6 +108,8 @@ flowchart LR
 
 * [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 * [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/index)
+* [minGPT](https://github.com/karpathy/minGPT) Andrej karpathy大神的GPT教学模型
+  - [nanoGPT](https://github.com/karpathy/nanoGPT) 进化版
 
 #### LLM Visualization
 
