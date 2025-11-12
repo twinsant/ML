@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
+    "ollama>=0.6.0",
+    "pydantic>=2.12.4",
     "tensorflow>=2.20.0",
 ]
