@@ -9,7 +9,7 @@ client = Client(
 messages = [
   {
     'role': 'user',
-    'content': 'Why is the sky blue?',
+    'content': '天空为什么是蓝的?',
   },
 ]
 

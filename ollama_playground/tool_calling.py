@@ -1,5 +1,7 @@
 from ollama import chat
 
+MODEL_NAME = "qwen3:32b"
+
 def get_temperature(city: str) -> str:
   """Get the current temperature for a city
   
@@ -19,7 +21,7 @@ def get_temperature(city: str) -> str:
 messages = [{"role": "user", "content": "What's the temperature in New York?"}]
 
 # pass functions directly as tools in the tools list or as a JSON schema
-response = chat(model="qwen3:32b", messages=messages, tools=[get_temperature], think=True)
+response = chat(model=MODEL_NAME, messages=messages, tools=[get_temperature], think=True)
 
 messages.append(response.message)
 if response.message.tool_calls:
@@ -29,5 +31,5 @@ if response.message.tool_calls:
   # add the tool result to the messages
   messages.append({"role": "tool", "tool_name": call.function.name, "content": str(result)})
 
-  final_response = chat(model="qwen3:32b", messages=messages, tools=[get_temperature], think=True)
+  final_response = chat(model=MODEL_NAME, messages=messages, tools=[get_temperature], think=True)
   print(final_response.message.content)
