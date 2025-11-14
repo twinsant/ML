@@ -35,7 +35,7 @@ available_functions = {
 messages = [{'role': 'user', 'content': 'What is (11434+12341)*412?'}]
 while True:
     response: ChatResponse = chat(
-        model='qwen3',
+        model='qwen3:32b',
         messages=messages,
         tools=[add, multiply],
         think=True,

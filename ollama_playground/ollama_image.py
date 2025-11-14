@@ -17,11 +17,11 @@ class ImageDescription(BaseModel):
   text_content: Optional[str] = None
 
 response = chat(
-  model='qwen3-vl:235b-cloud',
+  model='qwen2.5vl:32b',
   messages=[{
     'role': 'user',
     'content': 'Describe this photo and list the objects you detect.',
-    'images': ['/Users/twinsant/Pictures/MP/4o250415.jpeg'],
+    'images': ['/Users/twinsant/Pictures/MP/bigeye.jpeg'],
   }],
   format=ImageDescription.model_json_schema(),
   options={'temperature': 0},
