@@ -8,6 +8,8 @@ dependencies = [
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "ollama>=0.6.0",
+    "pandas>=2.3.3",
     "pydantic>=2.12.4",
+    "scikit-learn>=1.7.2",
     "tensorflow>=2.20.0",
 ]
