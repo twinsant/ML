@@ -5,6 +5,9 @@ description = "My Machine Learning Project"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "accelerate>=1.11.0",
+    "bit>=0.8.0",
+    "diffusers>=0.35.2",
     "llama-index>=0.12.52",
     "llama-index-embeddings-huggingface>=0.5.5",
     "matplotlib>=3.10.7",
