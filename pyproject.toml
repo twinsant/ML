@@ -8,6 +8,7 @@ dependencies = [
     "accelerate>=1.11.0",
     "bit>=0.8.0",
     "diffusers>=0.35.2",
+    "huggingface-hub>=0.36.0",
     "llama-index>=0.12.52",
     "llama-index-embeddings-huggingface>=0.5.5",
     "matplotlib>=3.10.7",
@@ -17,6 +18,7 @@ dependencies = [
     "pydantic>=2.12.4",
     "pypdf2>=3.0.1",
     "scikit-learn>=1.7.2",
+    "sentencepiece>=0.2.1",
     "tensorflow>=2.20.0",
     "tf-keras>=2.20.1",
 ]
