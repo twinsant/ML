@@ -82,6 +82,10 @@ flowchart LR
 
 ### 编程
 
+### MPS
+
+成为苹果芯片专家:[Metal Performance Shaders ](https://huggingface.co/docs/diffusers/en/optimization/mps)
+
 #### Python
 
 需要了解基本的Python语法，了解Numpy、Pandas、Matplotlib、PyTorch和TensorFlow等库的基本用法
