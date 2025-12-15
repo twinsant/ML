@@ -147,6 +147,7 @@ TODO
 
 * 表格工具：手撸深度学习
 * 本机
+  - M5 32GB
 * Google Colab
 * AutoDL
 
