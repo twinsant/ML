@@ -32,4 +32,5 @@ if response.message.tool_calls:
   messages.append({"role": "tool", "tool_name": call.function.name, "content": str(result)})
 
   final_response = chat(model=MODEL_NAME, messages=messages, tools=[get_temperature], think=True)
+  # 1:04.01
   print(final_response.message.content)
