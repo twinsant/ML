@@ -32,7 +32,7 @@ available_functions = {
   'multiply': multiply,
 }
 
-messages = [{'role': 'user', 'content': 'What is (11434+12341)*412?'}]
+messages = [{'role': 'user', 'content': '(11434+12341)*412 的结果是多少'}]
 while True:
     response: ChatResponse = chat(
         model='qwen3:32b',

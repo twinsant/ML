@@ -29,3 +29,4 @@ response = chat(
 
 image_description = ImageDescription.model_validate_json(response.message.content)
 print(image_description)
+# Can't run this on my mac
