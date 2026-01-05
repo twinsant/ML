@@ -12,6 +12,7 @@ dependencies = [
     "llama-index>=0.12.52",
     "llama-index-embeddings-huggingface>=0.5.5",
     "matplotlib>=3.10.7",
+    "modelscope>=1.33.0",
     "numpy>=2.3.4",
     "ollama>=0.6.0",
     "pandas>=2.3.3",
