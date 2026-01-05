@@ -1,0 +1,3 @@
+[submodule "index-tts"]
+	path = index-tts
+	url = git@github.com:twinsant/index-tts.git
