@@ -110,6 +110,8 @@ TODO
 
 #### 概率论
 
+* [Softmax](https://notebooklm.google.com/notebook/7286bf53-ee61-47a6-8c52-ca7cf01b06fa)
+
 ### 机器学习理论
 
 #### 深度学习入门
