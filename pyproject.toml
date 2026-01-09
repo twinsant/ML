@@ -3,7 +3,7 @@ name = "ML"
 version = "0.1.0"
 description = "My Machine Learning Project"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12,<3.13"
 dependencies = [
     "accelerate>=1.11.0",
     "bit>=0.8.0",
@@ -13,7 +13,7 @@ dependencies = [
     "llama-index-embeddings-huggingface>=0.5.5",
     "matplotlib>=3.10.7",
     "modelscope>=1.33.0",
-    "numpy>=2.3.4",
+    "numpy>=1.24.0,<2.0",
     "ollama>=0.6.0",
     "pandas>=2.3.3",
     "pydantic>=2.12.4",
@@ -23,3 +23,12 @@ dependencies = [
     "tensorflow>=2.20.0",
     "tf-keras>=2.20.1",
 ]
+
+[tool.uv.workspace]
+members = [
+    "HY-Motion-1.0",
+]
+
+[[tool.uv.index]]
+name = "inria"
+url = "https://gitlab.inria.fr/api/v4/projects/18692/packages/pypi/simple"
