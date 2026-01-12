@@ -1,0 +1,6 @@
+* [开始使用适用于 Apple 芯片的 MLX](https://developer.apple.com/cn/videos/play/wwdc2025/315/)
+* [MLX Swift is a Swift API for MLX.](https://swiftpackageindex.com/ml-explore/mlx-swift/main/documentation/mlx)
+* [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/)
+* [MLX Examples](https://github.com/ml-explore/mlx-examples)
+* [MLX](https://github.com/ml-explore/mlx)
+* [MLX Swift](https://github.com/ml-explore/mlx-swift/)
