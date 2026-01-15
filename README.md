@@ -17,7 +17,7 @@ flowchart LR
 
 ## 个人5 年内目标
 
-精通空间智能，比如~~NeRF~~ 3DGS等空间计算和空间视频的处理与生成，为[元宇宙](https://github.com/twinsant/ethos)即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
+精通空间智能，比如~~NeRF~~ 3DG/4DGS S等空间计算和空间视频的处理与生成，为[元宇宙](https://github.com/twinsant/ethos)即下一阶段的 AI 应用打下基础，越过目前一维、二维和三维数据的匮乏，预先抢位智能时代。
 
 空间智能是AI的下一阶段，是继LLMs大语言模型之后的第二个台阶，是通往AGI的必经之路。
 
@@ -29,11 +29,11 @@ flowchart LR
 
 蚂蚁现在还不是很懂细节，希望通过一年的努力，看能不能找到一条道路，实现以下几个课题：
 
-### 课题1
+### 课题1：神经网络的Hello, World
 
-通过摄像头强化学习的MNIST手写文字识别神经网络
+通过摄像头强化学习的MNIST手写文字识别神经网络，在iPhone手机上运行的程序通过摄像头的每一帧构建自己神经网络，并将网络的构造过程可视化
 
-### 课题2
+### 课题2：所见即所得
 
 写一个手机APP，界面分上下两部分，上面的部分为摄像头画面，下面的部分为通过上一帧预测生成的画面，画面会和手机重力传感器同步。
 
@@ -54,7 +54,8 @@ flowchart LR
 
 ## 推荐信息源：资料日日新
 
-* [归藏的AIGC Weekly](https://quail.ink/op7418)
+* [归藏的AIGC Weekly](https://quail.ink/op7418) 泛AI可见邮件订阅
+  
 ## 推荐书目：
 
 ### 道
@@ -76,13 +77,15 @@ flowchart LR
 
 ### 器
 
-* LLMs工具
-* AIGC工具
+* LLMs工具：DeepSeek，Qwen，Kimi；Gemini，Claude，Grok，ChatGPT
+* AIGC工具：Nanobana Pro；即梦；可灵，Vidu；Runway，Luma Dream Machines，Higgsfield
 
 ## 论文阅读
 
+* https://arxiv.org/ 论文开放数据库
 * https://www.aminer.cn/ 智谱出品
 * https://papers.cool/ 苏神出品
+* 秘塔AI
 
 ### 编程
 
@@ -90,9 +93,13 @@ flowchart LR
 
 成为苹果芯片专家:[Metal Performance Shaders ](https://huggingface.co/docs/diffusers/en/optimization/mps)
 
+* MLX Swift
+* mx.fast
+* mx.distributed
+
 #### Python
 
-需要了解基本的Python语法，了解Numpy、Pandas、Matplotlib、PyTorch和TensorFlow等库的基本用法
+需要了解基本的Python语法，了解**Numpy**、Pandas、Matplotlib、PyTorch和TensorFlow等库的基本用法
 
 * 蚂蚁写的[Python基础教程](https://docs.twinsant.com/)
 
