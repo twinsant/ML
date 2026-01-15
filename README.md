@@ -54,7 +54,7 @@ flowchart LR
 
 ## 推荐信息源：资料日日新
 
-* [归藏的AIGC Weekly](https://quail.ink/op7418) 泛AI可见邮件订阅
+* [归藏的AIGC Weekly](https://quail.ink/op7418) 泛AI科技邮件订阅
   
 ## 推荐书目：
 
