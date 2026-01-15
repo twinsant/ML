@@ -71,7 +71,6 @@ flowchart LR
 * [《深度学习入门》](https://book.douban.com/subject/36303408/) 然后手撸理解更深
   - 《深度学习入门4 强化学习》
 * [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
-* [《动手学深度学习PyTorch版》](https://book.douban.com/subject/36142067/) 然后这本进阶
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/tree/main) **着重在这本书练手**
 * [Build An LLM](https://github.com/jammastergirish/BuildAnLLM) 可视化学习
 
