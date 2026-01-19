@@ -73,6 +73,7 @@ flowchart LR
 * [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/tree/main) **着重在这本书练手**
 * [Build An LLM](https://github.com/jammastergirish/BuildAnLLM) 可视化学习
+* [Sutskever 30 - Complete Implementation Suite](https://github.com/pageman/sutskever-30-implementations)
 
 ### 器
 
