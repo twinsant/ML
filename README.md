@@ -51,6 +51,7 @@ flowchart LR
 * [4D Gaussian Splatting 技术梳理（持续更新）](https://zhuanlan.zhihu.com/p/689935060)
 * [https://github.com/hustvl/4DGaussians](https://github.com/hustvl/4DGaussians)
 * [Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://github.com/half-potato/ever_training)
+* https://deepmind.google/models/genie/
 
 ## 推荐信息源：资料日日新
 
