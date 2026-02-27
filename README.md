@@ -51,6 +51,7 @@ flowchart LR
 * [4D Gaussian Splatting 技术梳理（持续更新）](https://zhuanlan.zhihu.com/p/689935060)
 * [https://github.com/hustvl/4DGaussians](https://github.com/hustvl/4DGaussians)
 * [Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://github.com/half-potato/ever_training)
+* https://deepmind.google/models/genie/
 
 ## 推荐信息源：资料日日新
 
@@ -73,6 +74,7 @@ flowchart LR
 * [《三维视觉新范式》](https://book.douban.com/subject/37014639/) 入门空间智能
 * [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/tree/main) **着重在这本书练手**
 * [Build An LLM](https://github.com/jammastergirish/BuildAnLLM) 可视化学习
+* [Sutskever 30 - Complete Implementation Suite](https://github.com/pageman/sutskever-30-implementations)
 
 ### 器
 
