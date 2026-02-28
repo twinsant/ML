@@ -1,4 +1,4 @@
-* [开始使用适用于 Apple 芯片的 MLX](https://developer.apple.com/cn/videos/play/wwdc2025/315/)
+* [开始使用适用于 Apple 芯片的 MLX](https://developer.apple.com/cn/videos/play/wwdc2025/315/) ✅
   - mxl.fast
   - mxl.distributed
 * [MLX Swift is a Swift API for MLX.](https://swiftpackageindex.com/ml-explore/mlx-swift/main/documentation/mlx)
