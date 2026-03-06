@@ -19,5 +19,11 @@ TODO
 
 * [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/) ✅
 * [MLX Examples](https://github.com/ml-explore/mlx-examples)
+
+  案例
+  - [MNIST](https://github.com/ml-explore/mlx-examples/tree/main/mnist)
+  - [Stable Diffusion](https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion)
+  - [Whisper](https://github.com/ml-explore/mlx-examples/tree/main/whisper)
+
 * [MLX](https://github.com/ml-explore/mlx)
 * [MLX Swift](https://github.com/ml-explore/mlx-swift/)
