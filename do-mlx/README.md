@@ -18,12 +18,17 @@ TODO
   - [**Built-in optimizers**](https://swiftpackageindex.com/ml-explore/mlx-swift/main/documentation/mlxoptimizers)
 
 * [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/) ✅
-* [MLX Examples](https://github.com/ml-explore/mlx-examples)
+* [MLX Examples](https://github.com/ml-explore/mlx-examples) ✅
+* [MLX](https://github.com/ml-explore/mlx) ✅
 
   案例
   - [MNIST](https://github.com/ml-explore/mlx-examples/tree/main/mnist)
   - [Stable Diffusion](https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion)
   - [Whisper](https://github.com/ml-explore/mlx-examples/tree/main/whisper)
 
-* [MLX](https://github.com/ml-explore/mlx)
 * [MLX Swift](https://github.com/ml-explore/mlx-swift/)
+
+  案例
+  - [MNISTTrainer](https://github.com/ml-explore/mlx-swift-examples/blob/main/Applications/MNISTTrainer/README.md)
+  - [MLX Chat Example](https://github.com/ml-explore/mlx-swift-examples/blob/main/Applications/MLXChatExample/README.md)
+  - [llm-tool](https://github.com/ml-explore/mlx-swift-examples/blob/main/Tools/llm-tool/README.md)
