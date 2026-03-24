@@ -140,6 +140,7 @@ TODO
 #### Diffusion
 
 * [Diffusion](https://huggingface.co/docs/diffusers/en/index)
+* [Vision Transformers](https://www.vizuaranewsletter.com/p/vision-transformers?r=5b5pyd&utm_campaign=post&utm_medium=web)
 
 ### 工具
 
