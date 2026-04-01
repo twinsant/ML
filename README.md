@@ -125,6 +125,7 @@ TODO
 #### 深度学习入门
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
+  - [NotebookLM解析](https://notebooklm.google.com/notebook/bd8b9d37-4032-463c-ba85-5ab171e5a065)
 
 #### Transformer
 
