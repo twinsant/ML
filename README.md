@@ -53,6 +53,18 @@ flowchart LR
 * [Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://github.com/half-potato/ever_training)
 * https://deepmind.google/models/genie/
 
+## 学习笔记
+
+* [手写数字识别入门教程](https://mp.weixin.qq.com/s/kJbkpfBuZy63CgMqChSWew)
+* [MLX MNIST 手写数字识别 - 逐行笔记](https://mp.weixin.qq.com/s/3T_8q-pfIGjYfvmlneK55Q)
+* [用 MLX 在 Mac 上跑 MNIST：超参数到底怎么调？](https://mp.weixin.qq.com/s/g1VZRC1kuaaGrKWkxQUnAw)
+* [KL散度与概率流形：从信息论到空间智能](https://mp.weixin.qq.com/s/uQzQG1HyiCm23g69btZxcg)
+* [MNIST 数据集 — 机器学习的 "Hello World"](https://mp.weixin.qq.com/s/Elzp4KgSNa_paa4IHVHvOw)
+* [卷积网络（CNN）基础](https://mp.weixin.qq.com/s/ZO-QSr_CJmZYdXoE_6zBjw)
+* [MNIST 数据集大小实验：为什么 3000 张图就够了？](https://mp.weixin.qq.com/s/O8OkjTxYm17Pantd93buvg)
+* [CNN vs MLP — 数据集大小实验](https://mp.weixin.qq.com/s/tjZBs18UHaNw8XQ4ZomZ8g)
+* [独热编码（One-Hot Encoding）的来历](https://mp.weixin.qq.com/s/8sZtTMze8nK4d_rfmPgPdQ)
+
 ## 推荐信息源：资料日日新
 
 * [归藏的AIGC Weekly](https://quail.ink/op7418) 泛AI科技邮件订阅
@@ -106,7 +118,7 @@ flowchart LR
 
 ##### PyTorch
 
-TODO
+个人专注在MLX上
 
 ### 数学
 
